@@ -20,4 +20,4 @@ This project analyzes the Amazon Fine Food Reviews dataset, which consists of re
   - `Text`: Full text of the review
 
 ## Objective
-The primary objective of this project is to perform sentiment analysis on the reviews to classify them as positive or negative.
+The primary objective of this project is to perform sentiment analysis on the reviews to classify them as positive or negative and given a review, determine whether the review is positive (Rating of 3 or 4 or 5) or negative (rating of 1 or 2).
